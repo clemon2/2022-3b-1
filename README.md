@@ -43,3 +43,5 @@ def index
 puts "hello world"
 end
 ```
+
+![NKUST](nkust.jpg "高科大" )
