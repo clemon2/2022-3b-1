@@ -97,7 +97,7 @@ Big
 | col 3 is     | some wordy test| $1600         |
 | col 2 is     | centered       | $12           |
 | zebra        | are neat       | $1            |
-| test         |          測試  | $3333         |
+| test         |          測試  | $3        |
 
 ```ruby
 def index
@@ -107,4 +107,4 @@ end
 
 ![NKUST](182513897.png "高科大" )
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![Missing you](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=01k_eY1HDA4"Missing you")
